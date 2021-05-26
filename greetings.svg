@@ -69,12 +69,13 @@
 						0 4px 0 #efefef,
                         0 12px 5px rgba(0, 0, 0, 0.1);
                     opacity: 0;
+                    animation: 5s ease 0s normal forwards 1 fadeInOut;
 				} #one {
-                    animation: 1s ease 0s normal forwards 1 fadeInOut;
+                    animation-delay: 0s;
                 } #two {
-                    animation: 5s ease 5s normal forwards 1 fadeInOut;
+                    animation-delay: 5s;
                 } #three {
-                    animation: 5s ease 10s normal forwards 1 fadeInOut;
+                    animation-delay: 10s;
                 }
 				p {
 					font-size: 20px;
