@@ -31,14 +31,8 @@
                     33% {
 						opacity: 0;
 					}
-					50% {
-						opacity: 1;
-                    }
-                    66% {
-						opacity: 1;
-					}
 					100% {
-						opacity: 0;
+						opacity: 1;
 					}
 				}
 				.container {
@@ -59,6 +53,7 @@
 					margin: 0;
 					width: 100%;
 					height: 400px;
+                    background-color: gray;
 					border-radius: 10px;
 					color: white;
 					text-align: center;
@@ -76,7 +71,7 @@
                         0 12px 5px rgba(0, 0, 0, 0.1);
                     opacity: 0;
 				} #one {
-                    animation: 5s ease 0s normal forwards 1 fadeInOut;
+                    animation: 1s ease 0s normal forwards 1 fadeInOut;
                 } #two {
                     animation: 5s ease 5s normal forwards 1 fadeInOut;
                 } #three {
