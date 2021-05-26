@@ -1,11 +1,12 @@
 <div align="center">
-  <img src="css.svg" width="0" height="0" alt="css-in-readme">
   <img src="https://media4.giphy.com/media/Nx0rz3jtxtEre/giphy.gif?cid=790b7611708bf722ec7532ea9b723fc0938fca453e1f7fbe&rid=giphy.gif&ct=g">
   <br>
   <h3>:wave: My name is Grant Scrits</h3>
 </div>
 
-<h1 id="test">📝</h1> I'm currently working on a 3D post-apocolyptic sci-fi game that is, for now, called Node Colonies
+<img src="greetings.svg" width="400" height="400" alt="css-in-readme">
+
+<h1 id="test">📝 test123</h1> I'm currently working on a 3D post-apocolyptic sci-fi game that is, for now, called Node Colonies
 <h1>🛠️</h1> I recently finished/am currently maintaining and upgrading <a href="https://github.com/Gmanicus/Youtube-Tabs">Youtube Tabs</a>, my Youtube subscription organization tool
 
 <!--
