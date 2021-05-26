@@ -2,17 +2,15 @@
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
-				@keyframes move {
+				@keyframes rotate {
 					0% {
-						transform: translate(0, -50%);
+						transform: rotate(3deg);
 					}
-					50% {
-						transform: translate(0, 50%);
-                    }
-                    100% {
-						transform: translate(0, -50%);
+					100% {
+						transform: rotate(-3deg);
 					}
 				}
+
 				@keyframes gradientBackground {
 					0% {
 						background-position: 0% 50%;
@@ -24,6 +22,7 @@
 						background-position: 0% 50%;
 					}
 				}
+
 				@keyframes fadeIn {
 					0% {
 						opacity: 0;
@@ -35,6 +34,7 @@
 						opacity: 1;
 					}
 				}
+
 				.container {
 					font-family:
 						system-ui,
@@ -53,41 +53,35 @@
 					margin: 0;
 					width: 100%;
 					height: 400px;
-                    background-color: gray;
+					background-color: gray;
 					border-radius: 10px;
 					color: white;
 					text-align: center;
 				}
-				#one, #two, #three {
+
+				h1 {
 					font-size: 50px;
 					line-height: 1.3;
 					letter-spacing: 5px;
+					text-transform: uppercase;
 					text-shadow:
 						0 1px 0 #efefef,
 						0 2px 0 #efefef,
 						0 3px 0 #efefef,
 						0 4px 0 #efefef,
-                        0 12px 5px rgba(0, 0, 0, 0.1);
-                    opacity: 0;
-                    animation: 5s ease 0s normal forwards 1 fadeInAndOut;
-				} #one {
-                    animation-delay: 0s;
-                } #two {
-                    animation-delay: 5s;
-                } #three {
-                    animation-delay: 10s;
-                }
+						0 12px 5px rgba(0, 0, 0, 0.1);
+					animation: rotate ease-in-out 1s infinite alternate;
+				}
+
 				p {
 					font-size: 20px;
 					text-shadow: 0 1px 0 #efefef;
 					animation: 5s ease 0s normal forwards 1 fadeIn;
 				}
 			</style>
-            <div class="container">
-                <p>This shouldn't work...</p>
-                <h1 id="one">My name is Grant</h1>
-                <h1 id="two">Testing 1 2 3</h1>
-                <h1 id="three">Beep Boop Bop</h1>
+			<div class="container">
+				<h1>Made with HTML &amp; CSS<br/>not an animated GIF</h1>
+				<p>Click to see the source</p>
 			</div>
 		</div>
 	</foreignObject>
