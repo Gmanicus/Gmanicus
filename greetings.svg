@@ -78,18 +78,16 @@
 						0 4px 0 #efefef,
 						0 12px 5px rgba(0, 0, 0, 0.1);
 				} #1 {
-                    animation: fadeInOut ease-in-out 5s;
+                    animation: 5s ease 0s normal forwards 1 fadeInOut;
                 } #2 {
-                    animation: movfadeInOute ease-in-out 5s;
-                    animation-delay: 5s;
+                    animation: 5s ease 5s normal forwards 1 fadeInOut;
                 } #3 {
-                    animation: fadeInOut ease-in-out 5s;
-                    animation-delay: 10s;
+                    animation: 5s ease 10s normal forwards 1 fadeInOut;
                 }
 				p {
 					font-size: 20px;
 					text-shadow: 0 1px 0 #efefef;
-					animation: 5s ease 0s normal forwards 1 fadeIn;
+					animation: 5s ease normal forwards 1 fadeIn;
 				}
 			</style>
 			<div class="container">
