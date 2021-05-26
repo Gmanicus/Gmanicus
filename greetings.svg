@@ -88,14 +88,13 @@
 				p {
 					font-size: 20px;
 					text-shadow: 0 1px 0 #efefef;
-					animation: 5s ease normal forwards 1 fadeIn;
+					animation: 5s ease 0s normal forwards 1 fadeInOut;
 				}
 			</style>
 			<div class="container">
                 <h1 id="one">My name is Grant</h1>
                 <h1 id="two">Testing 1 2 3</h1>
                 <h1 id="three">Beep Boop Bop</h1>
-				/* <p>Click to see the source</p> */
 			</div>
 		</div>
 	</foreignObject>
