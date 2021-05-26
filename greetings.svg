@@ -67,7 +67,7 @@
 					color: white;
 					text-align: center;
 				}
-				#1, #2, #3 {
+				#one, #two, #three {
 					font-size: 50px;
 					line-height: 1.3;
 					letter-spacing: 5px;
@@ -78,11 +78,11 @@
 						0 3px 0 #efefef,
 						0 4px 0 #efefef,
 						0 12px 5px rgba(0, 0, 0, 0.1);
-				} #1 {
+				} #one {
                     animation: 5s ease 0s normal forwards 1 fadeInOut;
-                } #2 {
+                } #two {
                     animation: 5s ease 5s normal forwards 1 fadeInOut;
-                } #3 {
+                } #three {
                     animation: 5s ease 10s normal forwards 1 fadeInOut;
                 }
 				p {
@@ -92,9 +92,9 @@
 				}
 			</style>
 			<div class="container">
-                <h1 id="1">My name is Grant</h1>
-                <h1 id="2">Testing 1 2 3</h1>
-                <h1 id="3">Beep Boop Bop</h1>
+                <h1 id="one">My name is Grant</h1>
+                <h1 id="two">Testing 1 2 3</h1>
+                <h1 id="three">Beep Boop Bop</h1>
 				/* <p>Click to see the source</p> */
 			</div>
 		</div>
