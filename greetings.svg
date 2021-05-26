@@ -24,11 +24,11 @@
 						background-position: 0% 50%;
 					}
 				}
-				@keyframes fadeInAndOut {
+				@keyframes fadeIn {
 					0% {
 						opacity: 0;
-                    }
-                    66% {
+					}
+					66% {
 						opacity: 0;
 					}
 					100% {
@@ -80,7 +80,7 @@
 				p {
 					font-size: 20px;
 					text-shadow: 0 1px 0 #efefef;
-					animation: 5s ease 0s normal forwards 1 fadeInAndOut;
+					animation: 5s ease 0s normal forwards 1 fadeIn;
 				}
 			</style>
             <div class="container">
