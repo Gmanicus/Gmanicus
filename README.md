@@ -4,10 +4,14 @@
   <h3>:wave: My name is Grant Scrits</h3>
 </div>
 
-<img src="greetings.svg" width="400" height="400" alt="css-in-readme">
+<br>
+<br>
 
-<h1 id="test">📝 test123</h1> I'm currently working on a 3D post-apocolyptic sci-fi game that is, for now, called Node Colonies
-<h1>🛠️</h1> I recently finished/am currently maintaining and upgrading <a href="https://github.com/Gmanicus/Youtube-Tabs">Youtube Tabs</a>, my Youtube subscription organization tool
+📝 I'm currently working on a 3D post-apocolyptic sci-fi game that is, for now, called Node Colonies
+
+<hr>
+
+🛠️ I recently finished/am currently maintaining and upgrading <a href="https://github.com/Gmanicus/Youtube-Tabs">Youtube Tabs</a>, my Youtube subscription organization tool
 
 <!--
 **Gmanicus/Gmanicus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
