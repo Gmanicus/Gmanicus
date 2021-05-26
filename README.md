@@ -7,7 +7,9 @@
 <br>
 <br>
 
-📝 I'm currently working on a 3D post-apocolyptic sci-fi game that is, for now, called Node Colonies
+📝 I am currently working on a 3D post-apocolyptic sci-fi game that is, for now, called Node Colonies
+
+I am also a part of team **Debug Life** in the team/final projects phase to receive my Full-Stack Web Development certification from the Bethel School of Technology. Our project is TBD
 
 <hr>
 
