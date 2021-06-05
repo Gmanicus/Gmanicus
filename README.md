@@ -9,7 +9,7 @@
 
 📝 I am currently working on a 3D post-apocolyptic sci-fi game that is, for now, called Node Colonies
 
-I am also a part of team **Debug Life** in the team/final projects phase of a Full-Stack Web Development program provided by the Bethel School of Technology. Our project is TBD
+I am also a part of team **Debug Life** in the team/final projects phase of a Full-Stack Web Development program provided by the Bethel School of Technology. Our project is a Point and Click Escape Room web game.
 
 <hr>
 
