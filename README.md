@@ -7,13 +7,15 @@
 <br>
 <br>
 
-📝 I am currently working on a 3D post-apocolyptic sci-fi game that is, for now, called Node Colonies
+<h1>📝 In Development</h1>
 
-I am also a part of team **Debug Life** in the team/final projects phase of a Full-Stack Web Development program provided by the Bethel School of Technology. Our project is a Point and Click Escape Room web game.
+- I am currently working on a 3D post-apocolyptic sci-fi game that is, for now, called Node Colonies
 
-<hr>
+- I am a part of team **Debug Life** in the team/final projects phase of a Full-Stack Web Development program provided by the Bethel School of Technology. Our project is a Point and Click Escape Room web game.
 
-🛠️ I recently finished/am currently maintaining and upgrading <a href="https://github.com/Gmanicus/Youtube-Tabs">Youtube Tabs</a>, my Youtube subscription organization tool
+<h1>🛠️ Running</h1>
+
+- I recently finished and am currently maintaining and upgrading <a href="https://github.com/Gmanicus/Youtube-Tabs">Youtube Tabs</a>, my Youtube subscription organization tool
 
 <!--
 **Gmanicus/Gmanicus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
