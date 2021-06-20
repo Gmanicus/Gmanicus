@@ -13,7 +13,7 @@
 
 - I am a part of team **Debug Life** in the team/final projects phase of a Full-Stack Web Development program provided by the Bethel School of Technology. Our project is a Point and Click Escape Room web game.
 
-<h1>📝 In Design</h1>
+<h1>🎨 In Design</h1>
 
 - I am currently designing a 3D post-apocolyptic sci-fi game that is, for now, called Node Colonies
 
