@@ -9,7 +9,7 @@
 
 <h1>📝 In Development</h1>
 
-- I am developing a Python app that will record player session times and also give you some server status updates.
+- I am developing a Python app that will record player session times and also give you some server status updates for a self-hosted Minecraft server.
 
 - I am currently working on a web service called Key Bouncer. It will serve as a digital key distribution service primarily for game developers to allow them to verify who they are gifting keys to.
 
