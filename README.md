@@ -21,7 +21,7 @@
 
 - I recently developed a Python app that records player session times and also gives you server status updates for self-hosted Minecraft servers.
 
-- I recently finished and am currently maintaining and upgrading <a href="https://github.com/Gmanicus/Youtube-Tabs">Youtube Tabs</a>, my Youtube subscription organization tool
+- I am currently maintaining and upgrading <a href="https://github.com/Gmanicus/Youtube-Tabs">Youtube Tabs</a>, my Youtube subscription organization tool
 
 <!--
 **Gmanicus/Gmanicus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
