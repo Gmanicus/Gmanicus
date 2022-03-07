@@ -11,7 +11,7 @@
 
 - I am currently developing a 2D sci-fi game called Stellar Assembler, loosely inspired by games like Factorio, Mindustry, and Rimworld.
 
-<h1>🎨 In Design</h1>
+<!-- <h1>🎨 In Design</h1> -->
 
 <h1>⏸ On Hold</h1>
 
