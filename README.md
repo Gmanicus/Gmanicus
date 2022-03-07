@@ -7,22 +7,22 @@
 <br>
 <br>
 
-<h1>✒️ In Development</h1>
+<h2>✒️ In Development</h2>
 
 - I am currently developing a 2D sci-fi game called Stellar Assembler, loosely inspired by games like Factorio, Mindustry, and Rimworld.
 
-<!-- <h1>🎨 In Design</h1> -->
+<!-- <h2>🎨 In Design</h2> -->
 
-<h1>⏸ On Hold</h1>
+<h2>⏸ On Hold</h2>
 
 - I was designing a 3D post-apocolyptic sci-fi game mildy inspired by the CG anime Blame that is, for now, called Node Colony.
 
-<h1>✅ Completed</h1>
+<h2>✅ Completed</h2>
 
 - I am currently maintaining and upgrading <a href="https://github.com/Gmanicus/Youtube-Tabs">Youtube Tabs</a>, my Youtube subscription organization tool.
 - I am currently maintaining and upgrading Dailies, a streak tracker for Discord servers.
 
-<h1>📖 Recent Events</h1>
+<h2>📖 Recent Events</h2>
 
 - 🎆 I was hired for a full-time low-code software engineering position Q4 of 2021!
 
