@@ -25,6 +25,4 @@
 
 <h2>📖 Recent Events</h2>
 
-- 🎆 I was hired for a full-time low-code software engineering position Q4 of 2021
-
-- I graduated from the [Bethel School of Technology](https://betheltech.net/) with a certification in Full-Stack / Software Engineering
+- 🎆 I was hired for a software engineering position Q4 of 2022 in the eLearning industry!
