@@ -9,7 +9,7 @@
 
 <h2>✒️ In Development</h2>
 
-- I'm currently starting work on an information service about U.S representatives, their activity, and their stances
+- I'm currently starting work on an information service about U.S representatives, their activity, and their stances on issues
 
 <!-- <h2>🎨 In Design</h2> -->
 
