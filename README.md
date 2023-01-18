@@ -21,7 +21,7 @@
 
 - Launched <a href="https://github.com/Gmanicus/WebstoreWatch">Webstore Watch</a>, a small utility that sends notifications to developers for new support requests on the Chrome Web Store
 - I am currently maintaining and upgrading <a href="https://github.com/Gmanicus/Youtube-Tabs">Youtube Tabs</a>, my Youtube subscription organization tool
-- I am currently maintaining and upgrading Dailies, a streak tracker for Discord servers
+- Built <a href="https://github.com/Gmanicus/Dailies">Dailies</a>, a Discord developer streak tracker. It helps encourage consistent work on personal projects and also invites a lot of discussion regarding the things that people are working on
 
 <h2>📖 Recent Events</h2>
 
