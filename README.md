@@ -13,9 +13,9 @@
 
 <!-- <h2>🎨 In Design</h2> -->
 
-<h2>⏸ On Hold</h2>
+<!-- <h2>⏸ On Hold</h2>
 
-- I was developing a 2D sci-fi game called Stellar Assembler, loosely inspired by games like Factorio, Mindustry, and Rimworld
+- I was developing a 2D sci-fi game called Stellar Assembler, loosely inspired by games like Factorio, Mindustry, and Rimworld -->
 
 <h2>✅ Completed</h2>
 
