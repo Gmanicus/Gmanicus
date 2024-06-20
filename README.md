@@ -9,7 +9,10 @@
 
 <h2>✒️ In Development</h2>
 
-- I'm currently working on an information service about U.S representatives, their activity, and their stances on issues
+- I'm currently working on RepScout, an information service about U.S representatives, their activity, and their stances on issues.
+
+<a href="https://twitter.com/RepScoutUS">X</a> | <a href="https://www.youtube.com/@RepScout/featured">YouTube</a>
+
 
 <!-- <h2>🎨 In Design</h2> -->
 
@@ -22,7 +25,3 @@
 - Launched <a href="https://github.com/Gmanicus/WebstoreWatch">Webstore Watch</a>, a small utility that sends notifications to developers for new support requests on the Chrome Web Store
 - Maintaining <a href="https://github.com/Gmanicus/Youtube-Tabs">Youtube Tabs</a>, my Youtube subscription organization tool
 - Built <a href="https://github.com/Gmanicus/Dailies">Dailies</a>, a Discord developer streak tracker. It helps encourage consistent work on personal projects and also invites a lot of discussion regarding the things that people are working on
-
-<h2>📖 Recent Events</h2>
-
-- 🎆 I was hired for a software engineering position Q4 of 2022 in the eLearning industry!
