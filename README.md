@@ -9,7 +9,7 @@
 
 <h2>✒️ In Development</h2>
 
-- I'm currently working on RepScout, an information service about U.S representatives, their activity, and their stances on issues.
+- I'm currently working on <a href="https://repscout.us/">RepScout</a>, an information service with an ambitious goal of providing track records and profiles for government officials ranging from Congress to school boards and all candidates on the ballot.
 
 <a href="https://twitter.com/RepScoutUS">X</a> | <a href="https://www.youtube.com/@RepScout/featured">YouTube</a>
 
