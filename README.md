@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media4.giphy.com/media/Nx0rz3jtxtEre/giphy.gif?cid=790b7611708bf722ec7532ea9b723fc0938fca453e1f7fbe&rid=giphy.gif&ct=g">
   <br>
-  <h3>:wave: My name is Grant Scrits</h3>
+  <h3>:wave: My name is Grant</h3>
 </div>
 
 <br>
